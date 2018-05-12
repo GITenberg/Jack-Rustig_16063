@@ -1,0 +1,46 @@
+_repo: Jack-Rustig_16063
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Braakensiek, Joh. (Johan Coenraad)
+    alias: Braakensiek, Johan Coenraad
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '6460'
+    url: http://www.gutenberg.org/2009/agents/6460
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Braakensiek
+  translator:
+    agent_name: Dragt, A. J. van
+    gutenberg_agent_id: '6459'
+    url: http://www.gutenberg.org/2009/agents/6459
+covers:
+- cover_type: archival
+  image_path: 16063-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, Captain
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Kapitein
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16063'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- !lcsh 'Poor -- Fiction'
+title: Jack Rustig
+url: http://www.gutenberg.org/ebooks/16063
